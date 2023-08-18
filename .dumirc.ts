@@ -9,6 +9,8 @@ import {moreLink} from "./config/moreLinks";
 import {footer} from "./config/footer";
 
 export default defineConfig({
+  publicPath: '/white-dew-doc/',
+  base: '/white-dew-doc',
   themeConfig: {
     ...defineConfig({
       title: 'White Dew',
