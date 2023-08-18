@@ -5,12 +5,6 @@ export const  footerLinks = [
     title: '前端资源',
     items: [
       {
-        title: 'Umi',
-        description: 'React 应用开发框架',
-        url: 'https://umijs.org/',
-        openExternal: true
-      },
-      {
         title: 'dumi',
         description: '为组件研发而生的静态站点框架',
         url: 'https://d.umijs.org/',
@@ -60,21 +54,6 @@ export const  footerLinks = [
       {
         title: '新建 issues',
         url: 'https://gitee.com/SolarTerms24/whiteDew/issues/new',
-        openExternal: true
-      },
-      {
-        title: 'Ant Design 实战教程',
-        url: 'https://www.yuque.com/ant-design',
-        openExternal: true
-      },
-      {
-        title: '24 Solar Terms',
-        url: 'https://gitee.com/SolarTerms24',
-        openExternal: true
-      },
-      {
-        title: '与我们联系',
-        url: 'accums@pm.me',
         openExternal: true
       },
     ]

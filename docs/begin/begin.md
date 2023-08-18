@@ -1,10 +1,6 @@
 ---
 order: 1
-title: MySQL
+title: 前提条件
 group:
   title: 环境准备
-nav:
-  title: 开始使用
-  path: /1
-  order: 1
 ---
