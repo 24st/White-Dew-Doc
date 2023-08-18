@@ -4,4 +4,4 @@ export const footer = '' +
   ' | ' +
   'Copyright © 2023 <a target="_blank" href="https://github.com/24st">24SolarTerms</a> ' +
   ' | ' +
-  '<a target="_blank" href="https://github.com/accums">Made with❤by Accums</a>'
+  '<a target="_blank" href="https://github.com/accums">Made with ❤ by Accums</a>'
