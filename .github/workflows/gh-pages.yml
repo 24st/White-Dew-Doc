@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Install dependencies
         run: npm install
-      - name: Install dependencies
+      - name: Build with dumi
         run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
