@@ -16,7 +16,7 @@ export default defineConfig({
   themeConfig: {
     ...defineConfig({
       title: 'White Dew',
-      description: '一款插件化 轻量且丰富的前后分离架构后台基础管理系统',
+      description: '插件化 轻量且丰富',
       github: 'https://github.com/accums',
       docVersions: docVersions,
       nav: nav,
